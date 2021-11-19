@@ -1,4 +1,4 @@
-module github.com/Gandi/ganesha_exporter
+module github.com/denneb1/ganesha_exporter
 
 go 1.12
 
